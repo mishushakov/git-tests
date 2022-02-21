@@ -1,1 +1,1 @@
-fetch git update
+mirror test
